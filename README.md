@@ -1,2 +1,3 @@
 # postgres-curl
-Utility image based on postgres with curl installed
+
+Utility image based on postgres with curl installed.
